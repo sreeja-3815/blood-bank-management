@@ -19,8 +19,8 @@ management and clinical aspects of providing services within a blood bank.
 
 # Pre-Requisites
 
-   *NetBeans IDE 17
-   *MYSQL 8.0
+   * NetBeans IDE 17
+   * MYSQL 8.0
 
 
 
